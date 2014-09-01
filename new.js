@@ -1,1 +1,1 @@
-function new (){}
+function new (){ alert(1)}
